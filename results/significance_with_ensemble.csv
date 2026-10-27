@@ -1,0 +1,8 @@
+Comparison,Mean AUC diff,Wilcoxon p,Holm-adjusted p,Significant (0.05)
+Logistic Regression vs KNN,0.0482,0.002,0.0137,True
+Logistic Regression vs Random Forest,0.0203,0.002,0.0137,True
+Logistic Regression vs XGBoost,0.0265,0.0039,0.0195,True
+Logistic Regression vs Gradient Boosting,0.0207,0.0059,0.0234,True
+Logistic Regression vs SVM (RBF),0.0063,0.1602,0.4805,False
+Logistic Regression vs Stacking Ensemble,0.0021,0.2324,0.4805,False
+Logistic Regression vs Logistic Regression (no SMOTE),0.0007,0.9219,0.9219,False

@@ -1,0 +1,16 @@
+,mean_abs_shap
+age,0.6628
+education,0.2369
+heartRate,0.2279
+cigsPerDay,0.2278
+sysBP,0.1397
+male,0.1296
+prevalentHyp,0.1209
+totChol,0.0937
+glucose,0.0763
+diaBP,0.0401
+BMI,0.0399
+currentSmoker,0.0108
+BPMeds,0.009
+prevalentStroke,0.0022
+diabetes,0.0007

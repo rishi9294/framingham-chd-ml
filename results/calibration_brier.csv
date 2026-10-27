@@ -1,0 +1,9 @@
+Model,Brier (OOF),Pooled AUC
+Logistic Regression,0.2108,0.7243
+Logistic Regression (no SMOTE),0.1168,0.7243
+KNN,0.2479,0.678
+SVM (RBF),0.2136,0.7182
+Random Forest,0.2021,0.704
+Gradient Boosting,0.1954,0.7037
+XGBoost,0.1862,0.6907
+Stacking Ensemble,0.1174,0.7233

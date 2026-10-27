@@ -1,0 +1,16 @@
+Feature,Std. coefficient,Odds ratio (per 1 SD)
+age,0.436,1.547
+sysBP,0.189,1.208
+male,0.181,1.199
+cigsPerDay,0.143,1.154
+glucose,0.093,1.097
+prevalentHyp,0.091,1.095
+currentSmoker,0.079,1.082
+totChol,0.072,1.075
+BPMeds,0.061,1.063
+diabetes,0.055,1.057
+prevalentStroke,0.052,1.054
+diaBP,0.048,1.049
+BMI,0.013,1.013
+heartRate,-0.026,0.974
+education,-0.063,0.939
